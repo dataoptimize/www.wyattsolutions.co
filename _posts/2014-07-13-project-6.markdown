@@ -8,4 +8,6 @@ project-date: June 2024
 client: Wyatt Solutions
 category: White Paper
 description: An in-depth analysis of the book 
+link: https://example.com/real-world-mlops
+link-text: Read More
 ---
