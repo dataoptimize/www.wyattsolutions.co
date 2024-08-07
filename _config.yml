@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: wyattsolutions
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -40,19 +40,19 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/wyattsolutions
+    url: 
   - title: linkedin
-    url: http://linkedin.com/company/wyattsolutions
+    url: 
   - title: github
-    url: http://github.com/wyattsolutions
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 123 Innovation Drive
+  - line: 
   - line: Alberta, Canada
 
 # Credits content
-credits: 'This site is powered by a customized open source Bootstrap theme. Created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This site was created by Wyatt Solutions using Ruby and Jekyll'
 
 # Build settings
 markdown: kramdown
