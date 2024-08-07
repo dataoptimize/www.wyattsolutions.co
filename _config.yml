@@ -1,10 +1,10 @@
 # Site settings
-title: Azure Data Engineering Consultancy
-email: contact@azuredataengineering.com
-url: https://github.com/azuredataengineering/consultancy
-description: "Providing expert Azure data engineering consulting services to help businesses leverage the power of Microsoft's cloud platform. Specializing in data integration, storage, processing, and analytics."
-keywords: "Azure, data engineering, consulting, cloud platform, data integration, data storage, data processing, data analytics"
-skills: "Azure Data Engineer - Cloud Solution Architect - Data Analytics Specialist"
+title: Wyatt Solutions
+email: contact@wyattsolutions.com
+url: https://github.com/wyattsolutions
+description: "Delivering innovative technology solutions, including digital transformation, managed services, and expertise in cutting-edge technologies like Azure Machine Learning and Databricks. Specializing in data integration, storage, processing, and analytics, we empower businesses to harness the full potential of cloud computing."
+keywords: "Azure, data engineering, cloud services, digital transformation, data integration, data storage, data processing, data analytics, managed services, Azure Machine Learning, Databricks"
+skills: "Digital Transformation - Managed Services - Cloud Solutions - Data Integration - Data Analytics"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,24 +32,24 @@ color:
 
 # Footer settings
 footer:
-  copyright: Azure Data Engineering Consultancy
-  location: Worldwide
+  copyright: Wyatt Solutions
+  location: Alberta, Canada
   social: Connect with Us
-  credits: Site Design by Azure Data Engineering Consultancy
+  credits: Site Design by Wyatt Solutions
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/azuredataeng
+    url: http://twitter.com/wyattsolutions
   - title: linkedin
-    url: http://linkedin.com/company/azuredataengineering
+    url: http://linkedin.com/company/wyattsolutions
   - title: github
-    url: http://github.com/azuredataengineering
+    url: http://github.com/wyattsolutions
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 123 Azure Drive
-  - line: Redmond, WA 98052
+  - line: 123 Innovation Drive
+  - line: Alberta, Canada
 
 # Credits content
 credits: 'This site is powered by a customized open source Bootstrap theme. Created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
