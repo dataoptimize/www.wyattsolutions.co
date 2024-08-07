@@ -7,7 +7,7 @@ alt: Real-World MLOps
 project-date: June 2024
 client: Wyatt Solutions
 category: White Paper
-description: An in-depth analysis of the book "Real-World MLOps: Operationalizing Machine Learning Models" and its significance for Wyatt Solutions' approach to MLOps and data engineering.
+description: An in-depth analysis of the book 
 ---
 
 # Real-World MLOps: Operationalizing Machine Learning Models
