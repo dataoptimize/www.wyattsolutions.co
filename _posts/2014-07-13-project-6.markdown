@@ -7,5 +7,5 @@ alt: Servies
 project-date: June 2024
 client: Wyatt Solutions
 category: Services
-description: <a href="https://example.com/real-world-mlops" target="_blank">Read More</a>
+description: Each business is unique, but you may have a business or a business process that can benefit from digital transformation. Contact us for a quote. <a href="https://example.com/real-world-mlops" target="_blank">Read More</a>
 ---
