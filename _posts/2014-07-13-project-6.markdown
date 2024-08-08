@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2024-06-28
-img: servies_1.png
+img: services_1.png
 alt: Servies
 project-date: June 2024
 client: Wyatt Solutions
