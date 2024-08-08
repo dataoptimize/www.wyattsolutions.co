@@ -2,7 +2,7 @@
 title: Wyatt Solutions
 email: contact@wyattsolutions.com
 url: https://github.com/wyattsolutions
-description: "Delivering innovative technology solutions, including digital transformation, managed services, and expertise in cutting-edge technologies like Azure Machine Learning and Databricks. Specializing in data integration, storage, processing, and analytics, we empower businesses to harness the full potential of cloud computing."
+description: "Delivering innovative, custom technology solutions, including digital transformation, managed services, and expertise in cloud technologies like Azure Machine Learning. Specializing in automation and analytics, we are a botique, low-volume, high-value provider of digital transformation services for private equity firms.."
 keywords: "Azure, data engineering, cloud services, digital transformation, data integration, data storage, data processing, data analytics, managed services, Azure Machine Learning, Databricks"
 skills: "Digital Transformation - Managed Services - Cloud Solutions - Data Integration - Data Analytics"
 meta_author: LastName FirstName
@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Wyatt Solutions
-  location: Alberta, Canada
+  location:
   social: Connect with Us
   credits: Site Design by Wyatt Solutions
 
@@ -52,7 +52,7 @@ address:
   - line: Alberta, Canada
 
 # Credits content
-credits: 'This site was built by Wyatt Solutions, proudly using open source'
+credits: 'This site was custom built by Wyatt Solutions'
 
 # Build settings
 markdown: kramdown
