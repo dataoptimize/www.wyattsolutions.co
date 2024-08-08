@@ -2,10 +2,10 @@
 layout: default
 modal-id: 6
 date: 2024-06-28
-img: apress.png
-alt: Real-World MLOps
+img: servies_1.png
+alt: Servies
 project-date: June 2024
 client: Wyatt Solutions
-category: White Paper
+category: Services
 description: <a href="https://example.com/real-world-mlops" target="_blank">Read More</a>
 ---
