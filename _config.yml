@@ -52,7 +52,7 @@ address:
   - line: Alberta, Canada
 
 # Credits content
-credits: 'This site was designed by Wyatt Solutions, copyright 2024'
+credits: 'This site was built by Wyatt Solutions, proudly using open source'
 
 # Build settings
 markdown: kramdown
