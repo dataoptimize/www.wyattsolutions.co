@@ -1,7 +1,7 @@
 # Site settings
 title: Wyatt Solutions
 email: contact@wyattsolutions.com
-url: https://github.com/wyattsolutions
+url: https://github.com/Apress/mlops-lifecycle-toolkit
 description: "Delivering innovative, custom technology solutions, including digital transformation, managed services, and expertise in cloud technologies like Azure Machine Learning. Specializing in automation and analytics, we are a botique, low-volume, high-value provider of digital transformation services for private equity firms.."
 keywords: "Azure, data engineering, cloud services, digital transformation, data integration, data storage, data processing, data analytics, managed services, Azure Machine Learning, Databricks"
 skills: "Digital Transformation - Managed Services - Cloud Solutions - Data Integration - Data Analytics"
