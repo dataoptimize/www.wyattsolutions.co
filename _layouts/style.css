@@ -1,19 +1,50 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
-body, .container {
+/* Remove any unintended flexbox on the body */
+body {
   margin: 0;
   padding: 0;
+  text-align: center; /* Only if you want all text centered */
+}
+
+/* Container to wrap around your main content */
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Specific sections or elements */
+.header, .footer {
+  text-align: center; /* Center text only if necessary */
+}
+
+/* Example for centering an image or specific content */
+.center-content {
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
+  flex-direction: column; /* Stack vertically */
+  height: 100vh; /* Full viewport height */
+}
+
+/* Correct floating elements and prevent overlap */
+.float-clear {
+  clear: both;
+  overflow: auto;
 }
 
 @media only screen and (max-width: 600px) {
   .container {
     width: 100%;
-    max-width: 90%;
-    margin: 0 auto;
     padding: 10px;
+  }
+
+  /* Ensure elements stack properly on mobile */
+  .header, .footer, .content {
+    display: block;
+    width: 100%;
+    text-align: center; /* Adjust as needed */
   }
 }
