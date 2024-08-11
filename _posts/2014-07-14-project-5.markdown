@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Microsoft Press
 category: Web Development
-description: Our solutions include documenting and training so your teams can learn to use the solution and maintain it after we're gone.  Our experience writing professional certification training and the official exam series used globally for data science training. We can work with you to design highly similar, customized training solutions for your team as a value-added service. Using open source components our solutions can include technical content to drive your digital transformation including but not limited to technical documentation, internal training solutions hosted in Moodle or deployed internally. 
+description: Our delivery include documentation for all code and training so your teams can learn to use the solution at scale and maintain it after we're gone.  Our experience writing professional certification training and the official exam series used globally for Azure training. We can work with you to design highly similar, customized training solutions for your team as a value-added service. Using open source components our solutions can include technical content to drive your digital transformation including but not limited to technical documentation, internal training solutions hosted in Moodle or deployed internally. 
 ---
