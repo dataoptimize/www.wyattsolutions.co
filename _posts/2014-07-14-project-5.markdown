@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Microsoft Press
 category: Web Development
-description: I wrote the official Microsoft Exam series used globally for data science training. We can work with you to design highly similar, customized training solutions for your business. Our solutions can include technical content to drive your digital transformation including but not limited to technical documentation, internal training solutions build in Moodle or deployed internally, white papers, training workshops and e-books. We do not organize these events but can help develop the content and delivery solution.
+description: I wrote the official exam series used globally for data science training. We can work with you to design highly similar, customized training solutions for your business. Our solutions can include technical content to drive your digital transformation including but not limited to technical documentation, internal training solutions build in Moodle or deployed internally, white papers, training workshops and e-books. We do not organize these events but can help develop the content and delivery solution.
 ---
