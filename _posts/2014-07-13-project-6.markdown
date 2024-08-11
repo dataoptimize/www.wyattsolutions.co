@@ -7,5 +7,5 @@ alt: Servies
 project-date: June 2024
 client: Wyatt Solutions
 category: Services
-description: Each business is unique, but you may have a business or a business process that can benefit from digital transformation. Contact us for a quote. We specialize in data intensive or difficult to automate businesses. Take a look at our open source accelerator <a href="https://github.com/Apress/mlops-lifecycle-toolkit" target="_blank">Read More</a> with example pipelines using Apache Spark, advanced monitoring capabilities to track model performance, detect data drift, visualization, automated feature engineering pipelines, and CI and CD pipelines to deploy to any cloud stack. 
+description: Each business is unique, but you may have a business or a business process that can benefit from digital transformation. Contact us for a quote. We specialize in data intensive or difficult to automate businesses. Take a look at our open source RAG accelerator <a href="https://github.com/Apress/mlops-lifecycle-toolkit" target="_blank">Read More</a> where we improved the reliability of pipelines using Apache Spark, advanced monitoring capabilities, distributed traces and logging to track model performance, detect data drift, visualization and CI and CD pipelines to deploy to any cloud stack for integration with cloud APIs. 
 ---
