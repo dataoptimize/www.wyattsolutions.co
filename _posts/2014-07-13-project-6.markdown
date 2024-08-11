@@ -7,5 +7,5 @@ alt: Servies
 project-date: June 2024
 client: Wyatt Solutions
 category: Services
-description: Each business is unique, but you may have a business or a business process that can benefit from digital transformation. Contact us for a quote. We specialize in data intensive or difficult to automate businesses. Take a look at our open source RAG accelerator <a href="https://github.com/Apress/mlops-lifecycle-toolkit" target="_blank">Read More</a> where we improved the reliability of pipelines using Apache Spark, advanced monitoring capabilities, distributed traces and logging to track model performance, detect data drift, visualization and CI and CD pipelines to deploy to any cloud stack for integration with cloud APIs. 
+description: We offer end-to-end hybrid cloud and open-source digital transformation abd software development services that drive innovation, reliability and efficiency, even for highly customized or data-intensive applications. Our comprehensive services include team training, technical documentation, and custom solutions designed to help you thrive and scale in the ever-evolving tech landscape. <a href="https://github.com/Apress/mlops-lifecycle-toolkit" target="_blank">Read More</a> 
 ---
