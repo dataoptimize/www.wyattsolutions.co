@@ -1,13 +1,21 @@
 {% include css/bootstrap.min.css %}
 {% include css/main.css %}
-/* Remove any unintended flexbox on the body */
-body {
+
+/* General Reset */
+* {
   margin: 0;
   padding: 0;
-  text-align: center; /* Only if you want all text centered */
+  box-sizing: border-box;
 }
 
-/* Container to wrap around your main content */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Container */
 .container {
   width: 90%;
   max-width: 1200px;
@@ -15,36 +23,111 @@ body {
   padding: 20px;
 }
 
-/* Specific sections or elements */
-.header, .footer {
-  text-align: center; /* Center text only if necessary */
+/* Header and Footer Styling */
+header, footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
 }
 
-/* Example for centering an image or specific content */
-.center-content {
+/* Main Content */
+main {
+  margin: 20px 0;
+}
+
+/* Image Styling */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Navigation Bar */
+nav {
+  background: #444;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+nav a:hover {
+  background: #333;
+}
+
+/* Section Styles */
+section {
+  padding: 20px 0;
+  margin-bottom: 20px;
+  background: #fff;
+}
+
+/* Flexbox for Layouts */
+.flex {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
-  flex-direction: column; /* Stack vertically */
-  height: 100vh; /* Full viewport height */
 }
 
-/* Correct floating elements and prevent overlap */
-.float-clear {
-  clear: both;
-  overflow: auto;
+.flex-column {
+  flex-direction: column;
 }
 
-@media only screen and (max-width: 600px) {
+/* Buttons */
+button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 768px) {
+  /* Adjusting container width */
   .container {
     width: 100%;
     padding: 10px;
   }
 
-  /* Ensure elements stack properly on mobile */
-  .header, .footer, .content {
+  /* Stack flex items vertically on smaller screens */
+  .flex {
+    flex-direction: column;
+  }
+
+  /* Adjust padding in header and footer */
+  header, footer {
+    padding: 15px 0;
+  }
+
+  /* Center navigation links and make them block level */
+  nav a {
     display: block;
-    width: 100%;
-    text-align: center; /* Adjust as needed */
+    margin: 5px 0;
   }
 }
+
+@media (max-width: 480px) {
+  /* Further adjustments for very small screens */
+  body {
+    font-size: 14px;
+  }
+
+  nav a {
+    padding: 8px;
+  }
+
+  button {
+    padding: 8px 16px;
+  }
+}
+
