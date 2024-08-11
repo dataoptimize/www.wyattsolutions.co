@@ -32,15 +32,13 @@ color:
 
 # Footer settings
 footer:
-  copyright: Wyatt Solutions
+  copyright: Wyatt Solutions Inc.
   location:
-  social: Connect with Us
-  credits: Site Design by Wyatt Solutions
+  social: Get a Quote
+  credits: This site was built and hosted using open source
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
   - title: linkedin
     url: 
   - title: github
@@ -48,8 +46,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Located in the heart of
-  - line: Alberta, Canada
+  - line: Serving businesses
+  - line: in North America and globally
 
 # Credits content
 credits: 'This site was custom built by Wyatt Solutions'
