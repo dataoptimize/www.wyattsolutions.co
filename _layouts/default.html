@@ -1,26 +1,51 @@
 <!DOCTYPE html>
-<html>
-{% include head.html %}
-  
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
 <body id="page-top" class="index">
+  
+  <!-- Navigation Bar -->
+  <header>
+    {% include nav.html %}
+  </header>
+
+  <!-- Main Content -->
   <div class="container">
-  {% include nav.html %}
-  {% include header.html %}
-  {% include portfolio_grid.html %}
-  {% include about.html %}
+    <!-- Hero or Introductory Section -->
+    <section class="header">
+      {% include header.html %}
+    </section>
 
-  {% if site.contact == "static" %}
-  {% include contact_static.html %}
-  {% elsif site.contact == "disqus" %}
-  {% include contact_disqus.html %}
-  {% else %}
-  {% include contact.html %}
-  {% endif %}
+    <!-- Portfolio Grid or Main Content Section -->
+    <section class="portfolio-grid">
+      {% include portfolio_grid.html %}
+    </section>
 
-  {% include footer.html %}
+    <!-- About Section -->
+    <section class="about">
+      {% include about.html %}
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact">
+      {% if site.contact == "static" %}
+        {% include contact_static.html %}
+      {% elsif site.contact == "disqus" %}
+        {% include contact_disqus.html %}
+      {% else %}
+        {% include contact.html %}
+      {% endif %}
+    </section>
+  </div> <!-- End of Container -->
+
+  <!-- Footer Section -->
+  <footer>
+    {% include footer.html %}
+  </footer>
+
+  <!-- Modals and Scripts -->
   {% include modals.html %}
   {% include js.html %}
-   </div>   
 </body>
-
 </html>
