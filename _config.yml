@@ -1,10 +1,8 @@
 # Site settings
 title: Wyatt Solutions
-email: sales@wyattsolutions.com
+email: wyattleewriting@gmail.com
 url: https://github.com/Apress/mlops-lifecycle-toolkit
-description: "Delivering innovative, custom technology solutions, including digital transformation, managed services, and expertise in cloud technologies like Azure Machine Learning. Specializing in automation and analytics, we are a botique, low-volume, high-value provider of digital transformation services for private equity firms.."
-keywords: "Azure, data engineering, cloud services, digital transformation, data integration, data storage, data processing, data analytics, managed services, Azure Machine Learning, Databricks"
-skills: "Digital transformation and value creation for private equaity"
+description: "We offer expert technical writing services specializing in API documentation, user manuals, training and onboarding guides, and SaaS product documentation to help companies deliver clear, reliable, and up-to-date content that drives customer success and reduces support costs."
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -34,7 +32,7 @@ color:
 footer:
   copyright: Wyatt Solutions Inc.
   location:
-  social: Tell us about your unique needs
+  social: Tell us about your unique documentation, training or technical writing needs
   credits: This site was built and hosted using open source
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -47,7 +45,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: Serving businesses
-  - line: in North America and globally
+  - line: globally
 
 # Credits content
 credits: 'This site was custom built by Wyatt Solutions'
