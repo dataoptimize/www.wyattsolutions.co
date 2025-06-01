@@ -7,5 +7,5 @@ alt: Servies
 project-date: June 2024
 client: Wyatt Solutions
 category: Services
-description: We offer end-to-end hybrid cloud and open-source digital transformation and software development services that drive innovation, reliability and efficiency, even for highly customized or data-intensive applications. We work with technology and cloud partners to deliver custom automation solutions designed to help you thrive and scale in the ever-evolving tech landscape. <a href="https://github.com/Apress/mlops-lifecycle-toolkit" target="_blank">Read More</a> 
+description: We provide specialized technical writing services for SaaS companies and technology teams, delivering clear, comprehensive documentation and customer support. By collaborating with leading technology experts and experienced technical writers we create custom automation and integrated guides that help your organization thrive and scale in a rapidly.
 ---
