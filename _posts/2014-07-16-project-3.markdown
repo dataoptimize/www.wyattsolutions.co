@@ -6,6 +6,6 @@ img: blog1.png
 alt: image-alt
 project-date: April 2014
 client: 
-category: Web Development
+category: Latest projects
 description: Coming soon
 ---
