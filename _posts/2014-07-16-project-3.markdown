@@ -6,6 +6,6 @@ img: blog1.png
 alt: image-alt
 project-date: April 2014
 client: 
-category: Latest projects
-description: Coming soon
+category: Latest Projects
+description: We'll list some of our most recent projects with permission in the near future. If you would like your work listd here and we have worked with you recently, please contact us.
 ---
