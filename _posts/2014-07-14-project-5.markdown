@@ -6,7 +6,7 @@ img: training2.png
 alt: image-alt
 project-date: April 2014
 client: Microsoft
-category: Technical Writing
+category: Previous Work
 description: |
   Wyatt solutions has delivered technical writing for the following companies:
   - Microsoft's publishing arm, Microsoft Press (official technical guides that are widely used)
