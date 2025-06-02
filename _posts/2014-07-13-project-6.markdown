@@ -7,5 +7,5 @@ alt: Servies
 project-date: June 2024
 client: Wyatt Solutions
 category: Services
-description: We provide specialized technical writing services for SaaS companies and technology teams, delivering clear, comprehensive documentation and customer support. By collaborating with leading technology experts and experienced technical writers we create custom automation and integrated guides that help your organization thrive and scale in a rapidly.
+description: We only use human writers, providing specialized technical writing services for SaaS companies and technology teams. We can help you to delivering clear, comprehensive documentation and provide customer support for our writing services. Since we do custom technical writing solutions, it's best to contact us with your pain points to see how we can help. 
 ---
