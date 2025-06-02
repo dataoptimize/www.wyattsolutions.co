@@ -1,8 +1,8 @@
 # Site settings
 title: Wyatt Solutions
 email: wyattleewriting@gmail.com
-url: https://github.com/Apress/mlops-lifecycle-toolkit
-description: "We offer expert technical writing services specializing in API documentation, user manuals, training and onboarding guides, and SaaS product documentation to help companies deliver clear, reliable, and up-to-date content that drives customer success and reduces support costs."
+url: https://wyattsolutions.co
+description: "We offer expert technical writing services specializing in case studies with narrative story telling and analytics. We also do API documentation, user manuals, training and onboarding guides, and SaaS product documentation to help companies deliver clear, reliable, and up-to-date content that drives customer success and reduces support costs."
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,7 +32,7 @@ color:
 footer:
   copyright: Wyatt Solutions Inc.
   location:
-  social: Tell us about your unique documentation, training or technical writing needs
+  social: Tell us about your unique content strategy, story telling, documentation, training or technical writing needs
   credits: This site was built using open source.
   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
