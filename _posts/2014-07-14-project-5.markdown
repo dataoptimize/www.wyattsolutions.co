@@ -7,7 +7,7 @@ alt: image-alt
 project-date: April 2014
 client: Microsoft
 category: Technical Writing
-Wyatt solutions has delivered technical writing for the following companies.
+description: Wyatt solutions has delivered technical writing for the following companies.
 
 1) Microsoft's publishing arm, Microsoft Press (technical guides)
 2) Dell EMC 
