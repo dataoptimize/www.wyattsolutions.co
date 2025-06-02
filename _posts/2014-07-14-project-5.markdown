@@ -13,6 +13,5 @@ description: Wyatt solutions has delivered technical writing for the following c
 2) Dell EMC 
 3) Apress, A Springer Nature Company
 4) Springer Nature, academic white paper writing
-
 We would be happy to provide a portfolio of our work and referenes upon request. 
 ---
