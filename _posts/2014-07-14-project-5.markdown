@@ -7,5 +7,12 @@ alt: image-alt
 project-date: April 2014
 client: Microsoft Press
 category: Web Development
-description: Our delivery include documentation for all code and training so your teams can learn to use the solution at scale and maintain it after we're gone.  Our experience writing professional certification training and the official exam series used globally for Azure training. We can work with you to design highly similar, customized training solutions for your team as a value-added service. Using open source components our solutions can include technical content to drive your digital transformation including but not limited to technical documentation, internal training solutions hosted in Moodle or deployed internally. 
+Wyatt solutions has delivered technical writing for the following companies:
+
+1) Microsoft's publishing arm, Microsoft Press (technical guides)
+2) Dell EMC 
+3) Apress, A Springer Nature Company
+4) Springer Nature, academic white paper writing
+
+We would be happy to provide a portfolio of our work and referenes upon request. 
 ---
