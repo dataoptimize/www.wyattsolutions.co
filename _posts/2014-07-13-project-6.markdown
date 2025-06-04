@@ -1,29 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-14
-img: training2.png
-alt: image-alt
-project-date: April 2014
-client: Microsoft
-category: Previous Work
+date: 2025-06-03
+img: your-image.png
+alt: Wyatt Solutions
+project-date: June 2025
+client: Wyatt Solutions
+category: Technical Services
 description: |
-  <h2>Services</h2>
-  <p>Wyatt Solutions specializes in technical storytelling for organizations tackling complex challenges. We create both written and video case studies, as well as technical documentation, to help you communicate your expertise and results with clarity and impact.</p>
-  <h3>Our Services</h3>
-  <ul>
-    <li><strong>Written Case Studies:</strong> We craft detailed, structured narratives...</li>
-    <li><strong>Video Case Studies:</strong> Bring your success stories to life...</li>
-    <li><strong>Creative Technical Storytelling:</strong> For projects that push boundaries...</li>
-    <li><strong>Documentation & Manuals:</strong> We produce user guides, integration manuals...</li>
-    <li><strong>Interview-Based Content:</strong> Our team conducts in-depth interviews...</li>
-    <li><strong>Content Repurposing:</strong> Maximize the value of your content...</li>
-  </ul>
-  <h3>Why Wyatt Solutions?</h3>
-  <ul>
-    <li>Expertise in both written and video storytelling for technical audiences.</li>
-    <li>Deep technical fluency across IT, engineering, and scientific fields.</li>
-    <li>Proven ability to handle complex, creative, and specialized projects.</li>
-    <li>Precision, clarity, and narrative structure in every deliverable.</li>
-  </ul>
+  Wyatt Solutions specializes in technical storytelling for organizations tackling complex challenges. We create both written and video case studies, as well as technical documentation, to help you communicate your expertise and results clearly and effectively.
 ---
