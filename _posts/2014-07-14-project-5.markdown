@@ -8,6 +8,6 @@ project-date: April 2014
 client: Microsoft
 category: Previous Work
 description: |
-Wyatt Solutions has helped industry leaders like Microsoft Press, Dell EMC, Apress, and Springer Nature turn complex ideas into clear, trusted technical publications. Our writing has guided professionals, supported innovation, and shaped learning across the tech world. Portfolio samples and references are available upon request.
+  Wyatt Solutions has helped industry leaders like Microsoft Press, Dell EMC, Apress, and Springer Nature turn complex ideas into clear, trusted technical publications. Our writing has guided professionals, supported innovation, and shaped learning across the tech world. Portfolio samples and references are available upon request.
 
 ---
