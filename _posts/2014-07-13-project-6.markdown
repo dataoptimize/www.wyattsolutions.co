@@ -1,12 +1,11 @@
 ---
 layout: default
-modal-id: 2
-date: 2014-07-14
+modal-id: 1
+date: 2025-06-14
 img: training2.png
 alt: image-alt
-project-date: April 2014
-client: Microsoft
-category: Previous Work
+project-date: April 2025
+category: What we do
 description: |
    Wyatt Solutions specializes in technical storytelling for organizations tackling complex challenges. We create both written and video case studies using experts, as well as technical documentation, to help you communicate the problem you're solving and results clearly and effectively.
 
