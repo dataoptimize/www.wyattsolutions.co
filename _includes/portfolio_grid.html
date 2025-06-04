@@ -1,27 +1,25 @@
-<section id="services">
-  <div class="container">
+<!-- Portfolio Grid Section -->
+<section id="portfolio">
+  <div class="container portfolio-flex-grid">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Our Services</h2>
+        <h2>Services</h2>
         <hr class="star-primary">
-        <ul style="list-style: none; padding: 0; max-width: 500px; margin: 30px auto 0 auto; text-align: left;">
-          <li><strong>Creative Technical Storytelling</strong><br>
-            Transform complex ideas into engaging, memorable narratives.
-          </li>
-          <li class="mt-3"><strong>Video Case Studies</strong><br>
-            High-quality video stories that showcase your impact.
-          </li>
-          <li class="mt-3"><strong>Technical Writing & Documentation</strong><br>
-            Clear, user-focused manuals and guides for your products or processes.
-          </li>
-          <li class="mt-3"><strong>Interview-Based Content</strong><br>
-            Capture authentic insights from your experts and clients.
-          </li>
-          <li class="mt-3"><strong>Content Repurposing</strong><br>
-            Turn technical assets into blog posts, sales materials, and more.
-          </li>
-        </ul>
       </div>
+    </div>
+    <div class="portfolio-flex-row">
+      {% for post in site.posts %}
+      <div class="portfolio-flex-item portfolio-item">
+        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
+          <div class="caption">
+            <div class="caption-content">
+              <i class="fa fa-search-plus fa-3x"></i>
+            </div>
+          </div>
+          <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+        </a>
+      </div>
+      {% endfor %}
     </div>
   </div>
 </section>
