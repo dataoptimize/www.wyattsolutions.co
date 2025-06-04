@@ -1,25 +1,32 @@
-<!-- Portfolio Grid Section -->
-<section id="portfolio">
-  <div class="container portfolio-flex-grid">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2>Services</h2>
-        <hr class="star-primary">
-      </div>
+<!-- Simple & Elegant Services Section -->
+<section id="services" style="padding: 60px 0; background: #f9f9f9;">
+  <div class="container">
+    <div class="text-center mb-5">
+      <h2 style="font-weight: 700; margin-bottom: 10px;">Our Services</h2>
+      <p style="color: #666; font-size: 1.1rem; max-width: 600px; margin: 0 auto;">
+        We combine creativity and technical expertise to deliver clear, compelling stories that drive results.
+      </p>
     </div>
-    <div class="portfolio-flex-row">
-      {% for post in site.posts %}
-      <div class="portfolio-flex-item portfolio-item">
-        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-          <div class="caption">
-            <div class="caption-content">
-              <i class="fa fa-search-plus fa-3x"></i>
-            </div>
-          </div>
-          <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-        </a>
+    <div class="row" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+
+      <!-- Service Item -->
+      <div style="flex: 1 1 280px; max-width: 320px; background: white; border-radius: 8px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); text-align: center;">
+        <i class="fa fa-lightbulb-o" style="font-size: 48px; color: #007bff; margin-bottom: 15px;"></i>
+        <h3 style="margin-bottom: 15px; font-weight: 600;">Creative Technical Storytelling</h3>
+        <p style="color: #555; font-size: 1rem; line-height: 1.5;">
+          Transform complex ideas into engaging narratives that captivate your audience and communicate your value clearly.
+        </p>
       </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
+
+      <!-- Service Item -->
+      <div style="flex: 1 1 280px; max-width: 320px; background: white; border-radius: 8px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); text-align: center;">
+        <i class="fa fa-video-camera" style="font-size: 48px; color: #28a745; margin-bottom: 15px;"></i>
+        <h3 style="margin-bottom: 15px; font-weight: 600;">Video Case Studies</h3>
+        <p style="color: #555; font-size: 1rem; line-height: 1.5;">
+          Bring your success stories to life with high-quality videos that engage and inspire your audience.
+        </p>
+      </div>
+
+      <!-- Service Item -->
+      <div style="flex: 1 1 280px; max-width: 320px; background: white; border-radius: 8px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); text-align: center;">
+        <i class="fa fa-file-text" style="font-size:
