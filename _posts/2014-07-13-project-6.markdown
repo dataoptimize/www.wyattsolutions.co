@@ -1,13 +1,4 @@
----
-layout: default
-modal-id: 1
-date: 2024-06-28
-img: services_1.png
-alt: Servies
-project-date: June 2024
-client: Wyatt Solutions
-category: Services
-description: <h2>Services</h2>
+<h2>Services</h2>
 
 <p>Wyatt Solutions specializes in technical storytelling for organizations tackling complex challenges. We create both written and video case studies, as well as technical documentation, to help you communicate your expertise and results with clarity and impact.</p>
 
@@ -50,5 +41,3 @@ description: <h2>Services</h2>
 </ul>
 
 <hr>
-
----
