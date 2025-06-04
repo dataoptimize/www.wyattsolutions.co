@@ -7,5 +7,48 @@ alt: Servies
 project-date: June 2024
 client: Wyatt Solutions
 category: Services
-description: We only use human writers, providing specialized technical writing services for SaaS companies and technology teams. We can help you to delivering clear, comprehensive documentation and provide customer support for our writing services. Since we do custom technical writing solutions, it's best to contact us with your pain points to see how we can help. 
+description: <h2>Services</h2>
+
+<p>Wyatt Solutions specializes in technical storytelling for organizations tackling complex challenges. We create both written and video case studies, as well as technical documentation, to help you communicate your expertise and results with clarity and impact.</p>
+
+<h3>Our Services</h3>
+
+<ul>
+  <li>
+    <strong>Written Case Studies</strong><br>
+    We craft detailed, structured narratives that highlight your technical achievements and measurable results. Each case study is based on interviews, data, and a clear, engaging story tailored for decision-makers and technical evaluators.
+  </li>
+  <li>
+    <strong>Video Case Studies</strong><br>
+    Bring your success stories to life with professionally produced video case studies. We handle the entire process—from planning and interviews to filming and editing—ensuring your technical story is engaging, accurate, and visually compelling.
+  </li>
+  <li>
+    <strong>Creative Technical Storytelling</strong><br>
+    For projects that push boundaries, we develop narratives that capture both the technical depth and the creative process, making complex solutions accessible and persuasive.
+  </li>
+  <li>
+    <strong>Documentation & Manuals</strong><br>
+    We produce user guides, integration manuals, and process documentation that meet your standards and regulatory requirements, ensuring clarity for users and stakeholders.
+  </li>
+  <li>
+    <strong>Interview-Based Content</strong><br>
+    Our team conducts in-depth interviews with your subject matter experts to capture authentic insights and details that enrich your case studies and technical content.
+  </li>
+  <li>
+    <strong>Content Repurposing</strong><br>
+    Maximize the value of your content by transforming case studies into blog posts, sales materials, and training resources.
+  </li>
+</ul>
+
+<h3>Why Wyatt Solutions?</h3>
+
+<ul>
+  <li>Expertise in both written and video storytelling for technical audiences.</li>
+  <li>Deep technical fluency across IT, engineering, and scientific fields.</li>
+  <li>Proven ability to handle complex, creative, and specialized projects.</li>
+  <li>Precision, clarity, and narrative structure in every deliverable.</li>
+</ul>
+
+<hr>
+
 ---
