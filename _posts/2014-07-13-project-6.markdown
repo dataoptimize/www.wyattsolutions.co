@@ -1,20 +1,6 @@
 ---
 layout: default
-modal-id: 2
-date: 2014-07-14
-img: training2.png
-alt: image-alt
-project-date: April 2014
-client: Microsoft
-category: Previous Work
-description: |
-  Wyatt solutions has delivered technical writing for the following companies:
-  - Microsoft's publishing arm, Microsoft Press (official technical guides that are widely used)
-  - Dell EMC
-  - Apress, A Springer Nature Company
-  - Springer Nature, academic white paper writing
-
-  We would be happy to provide a portfolio of our work and references upon request.
+title: Services
 ---
 
 ## Services
