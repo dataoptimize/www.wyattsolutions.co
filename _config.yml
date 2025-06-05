@@ -2,7 +2,7 @@
 title: Wyatt Solutions
 email: wyattleewriting@gmail.com
 url: https://wyattsolutions.co
-description: "We offer expert technical writing services specializing in case studies with narrative story telling and analytics. We also do API documentation, user manuals, training and onboarding guides, and SaaS product documentation to help companies deliver clear, reliable, and up-to-date content that drives customer success and reduces support costs."
+description: "We offer expert technical writing services specializing in case studies with narrative story telling with a focus on measurable impact."
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -32,8 +32,8 @@ color:
 footer:
   copyright: Wyatt Solutions Inc.
   location:
-  social: Tell us about your unique content strategy, story telling, documentation, training or technical writing needs
-  credits: This site was built using open source.
+  social: Tell us about your unique needs. 
+  credits: 
   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
