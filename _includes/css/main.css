@@ -4,40 +4,21 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-/* Reset potential transparency issues */
-#about,
-#about .container,
-#about .row,
-#about .col-lg-4,
-#about .col-lg-8,
-#about .col-lg-offset-2,
-#about .text-center {
+/* Force visibility and reset transparency issues for Services, Contact, and Footer */
+#services,
+#services *,
+#contact,
+#contact *,
+footer,
+footer * {
   background-color: #ffffff !important;
-  opacity: 1 !important;
-  color: #000000 !important;
-}
-
-/* Ensure headings and text are fully visible */
-#about h2,
-#about h3,
-#about p,
-#about li,
-#about a {
   color: #000000 !important;
   opacity: 1 !important;
+  border-color: #ccc !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
 }
 
-/* Optional: Adjust button styles if needed */
-#about .btn-outline {
-  background-color: transparent !important;
-  border: 2px solid #000000 !important;
-  color: #000000 !important;
-}
-
-#about .btn-outline:hover {
-  background-color: #000000 !important;
-  color: #ffffff !important;
-}
 
 
 body {
