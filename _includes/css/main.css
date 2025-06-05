@@ -4,6 +4,42 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+/* === Visibility Fixes for Freelancer Theme === */
+
+/* Force text in sections and footer to be fully visible */
+section, section p, section h1, section h2, section h3, section h4, section h5, section h6,
+footer, footer p, footer h1, footer h2, footer h3, footer h4, footer h5, footer h6, footer a {
+    opacity: 1 !important;
+    color: inherit !important;
+}
+
+/* Fix floating labels being invisible by default */
+.floating-label-form-group label {
+    opacity: 1 !important;
+    color: inherit !important;
+}
+
+/* Ensure footer links are clearly visible */
+footer a {
+    text-decoration: underline;
+    color: inherit !important;
+    opacity: 1 !important;
+}
+
+/* Prevent portfolio captions from being fully transparent when inactive */
+#portfolio .portfolio-item .portfolio-link .caption {
+    opacity: 0.9 !important;
+}
+
+/* Prevent button outlines and modals from looking faded */
+.btn,
+.btn-outline,
+.btn-social,
+.portfolio-modal .modal-content {
+    opacity: 1 !important;
+    color: inherit !important;
+}
+
 
 body {
     overflow-x: hidden;
