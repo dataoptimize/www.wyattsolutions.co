@@ -4,42 +4,34 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-/* === Visibility Fixes for Freelancer Theme === */
+/* === Fix overly light or transparent fonts in Freelancer Jekyll theme === */
 
-/* Force text in sections and footer to be fully visible */
-section, section p, section h1, section h2, section h3, section h4, section h5, section h6,
-footer, footer p, footer h1, footer h2, footer h3, footer h4, footer h5, footer h6, footer a {
-    opacity: 1 !important;
-    color: inherit !important;
+/* Force all section and footer text to have solid, readable color */
+section, section p, section h1, section h2, section h3, section h4, section h5, section h6 {
+    color: #222 !important; /* dark grey for readability */
 }
 
-/* Fix floating labels being invisible by default */
+footer, footer p, footer h1, footer h2, footer h3, footer h4, footer h5, footer h6, footer a {
+    color: #f2f2f2 !important; /* very light gray for dark footer background */
+}
+
+/* Prevent form labels from being invisible */
 .floating-label-form-group label {
     opacity: 1 !important;
-    color: inherit !important;
+    color: #555 !important;
 }
 
-/* Ensure footer links are clearly visible */
-footer a {
-    text-decoration: underline;
-    color: inherit !important;
-    opacity: 1 !important;
+/* Prevent caption overlays from making text unreadable */
+#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+    color: #fff !important;
 }
 
-/* Prevent portfolio captions from being fully transparent when inactive */
-#portfolio .portfolio-item .portfolio-link .caption {
-    opacity: 0.9 !important;
+/* Optional: Make sure modal text is readable too */
+.portfolio-modal .modal-content,
+.portfolio-modal .modal-content h2,
+.portfolio-modal .modal-content p {
+    color: #111 !important;
 }
-
-/* Prevent button outlines and modals from looking faded */
-.btn,
-.btn-outline,
-.btn-social,
-.portfolio-modal .modal-content {
-    opacity: 1 !important;
-    color: inherit !important;
-}
-
 
 body {
     overflow-x: hidden;
