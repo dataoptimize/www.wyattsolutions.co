@@ -4,20 +4,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-/* Force visibility and reset transparency issues for Services, Contact, and Footer */
-#services,
-#services *,
-#contact,
-#contact *,
-footer,
-footer * {
-  background-color: #ffffff !important;
-  color: #000000 !important;
-  opacity: 1 !important;
-  border-color: #ccc !important;
-  box-shadow: none !important;
-  text-shadow: none !important;
-}
 
 
 
