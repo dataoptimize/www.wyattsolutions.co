@@ -47,7 +47,7 @@ address:
   - line: We are located in Calgary, Canada
 
 # Credits content
-credits: 'This site was custom built by Wyatt Solutions'
+credits:  
 
 # Build settings
 markdown: kramdown
