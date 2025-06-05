@@ -4,6 +4,9 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+body {
+  font-weight: 600; /* Slightly bolder than normal (normal is 400, bold is 700) */
+}
 
 body {
     overflow-x: hidden;
