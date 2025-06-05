@@ -3,9 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
- body, .container, .row, .col-lg-12, .col-lg-4, .col-lg-8, .col-lg-offset-2 {
-    color: #222 !important;
-  }
+
 
 body {
     overflow-x: hidden;
