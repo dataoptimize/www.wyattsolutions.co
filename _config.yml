@@ -37,15 +37,14 @@ footer:
   
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedin
+  - title: 
     url: 
-  - title: github
+  - title: 
     url: 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Serving businesses
-  - line: globally
+  - line: We are located in Calgary, Canada
 
 # Credits content
 credits: 'This site was custom built by Wyatt Solutions'
