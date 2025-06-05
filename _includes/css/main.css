@@ -4,34 +4,41 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-/* === Fix overly light or transparent fonts in Freelancer Jekyll theme === */
-
-/* Force all section and footer text to have solid, readable color */
-section, section p, section h1, section h2, section h3, section h4, section h5, section h6 {
-    color: #222 !important; /* dark grey for readability */
+/* Reset potential transparency issues */
+#about,
+#about .container,
+#about .row,
+#about .col-lg-4,
+#about .col-lg-8,
+#about .col-lg-offset-2,
+#about .text-center {
+  background-color: #ffffff !important;
+  opacity: 1 !important;
+  color: #000000 !important;
 }
 
-footer, footer p, footer h1, footer h2, footer h3, footer h4, footer h5, footer h6, footer a {
-    color: #f2f2f2 !important; /* very light gray for dark footer background */
+/* Ensure headings and text are fully visible */
+#about h2,
+#about h3,
+#about p,
+#about li,
+#about a {
+  color: #000000 !important;
+  opacity: 1 !important;
 }
 
-/* Prevent form labels from being invisible */
-.floating-label-form-group label {
-    opacity: 1 !important;
-    color: #555 !important;
+/* Optional: Adjust button styles if needed */
+#about .btn-outline {
+  background-color: transparent !important;
+  border: 2px solid #000000 !important;
+  color: #000000 !important;
 }
 
-/* Prevent caption overlays from making text unreadable */
-#portfolio .portfolio-item .portfolio-link .caption .caption-content {
-    color: #fff !important;
+#about .btn-outline:hover {
+  background-color: #000000 !important;
+  color: #ffffff !important;
 }
 
-/* Optional: Make sure modal text is readable too */
-.portfolio-modal .modal-content,
-.portfolio-modal .modal-content h2,
-.portfolio-modal .modal-content p {
-    color: #111 !important;
-}
 
 body {
     overflow-x: hidden;
